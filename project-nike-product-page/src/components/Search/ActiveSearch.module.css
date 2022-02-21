@@ -1,0 +1,36 @@
+.search_inner{
+  display: flex;
+  width: 1371px;
+  margin: 0 auto;
+  padding-top: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+.search_inner h1{
+  display: inline-block;
+  margin-left: 18px;
+}
+.active{
+  max-width: 656px;
+  width: 656px;
+}
+.search_inner button{
+  border: 0;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.close{
+  width: 50%;
+  height: 50%;
+}
+.search_container{
+  max-width: 656px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 46px 32px 0;
+}

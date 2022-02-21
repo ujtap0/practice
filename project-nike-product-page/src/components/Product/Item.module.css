@@ -1,0 +1,20 @@
+.a_product{
+
+}
+.img_container{
+
+}
+.product_display{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 12px 8px;
+  line-height: 1.5em;
+}
+.product_info h2{
+  font-weight: 600;
+  font-size: 16px;
+}
+.product_price{
+  font-weight: 600;
+}

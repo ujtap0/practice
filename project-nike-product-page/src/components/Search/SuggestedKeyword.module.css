@@ -1,0 +1,23 @@
+.text{
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #757575;
+}
+.list{
+  list-style: none;
+}
+.list li{
+  font-weight: 500;
+  font-size: 20px;
+  color: #111;
+  line-height: 1.2;
+}
+.list a{
+  margin :12px;
+  display: inline-block;
+  cursor: pointer;
+  vertical-align: top;
+  max-width: 90%;
+}

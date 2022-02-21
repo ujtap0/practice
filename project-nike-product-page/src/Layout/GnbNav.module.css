@@ -1,0 +1,25 @@
+.nk_gnb{
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width :100%;
+  margin: 0 auto;
+}
+.nk_gnb li{
+  display: inline-block;
+  cursor: pointer;
+}
+.nk_gnb li a{
+  display: block;
+  padding: 18px 12px 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #111;
+}
+.nk_gnb li:last-child a{
+  color: #ff5001;
+}
