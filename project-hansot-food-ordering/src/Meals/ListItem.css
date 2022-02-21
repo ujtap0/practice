@@ -1,0 +1,7 @@
+.active p{
+  display: block;
+}
+li p{
+  display: none;
+  cursor: pointer;
+}

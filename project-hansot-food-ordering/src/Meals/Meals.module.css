@@ -1,0 +1,39 @@
+.container{
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 38px;
+}
+.menu-container{
+  list-style: none;
+  padding: 15px 30px;
+  border-top: 4px solid #373737;
+  background-color: #fff;
+  margin: 0;
+}
+.container .menu-container li h3{
+  display: block;
+  padding: 20px 0;
+  color: #5c5953;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1.3;
+  width: 210px;
+  margin:0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.container ul li h3:hover{
+  color: #FEC000;
+}
+.container ul li p{
+  color: #909090;
+  font-size: 15px;
+}
+.container ul li p:hover{
+  color: #FEC000;
+}
+.item-container ul{
+  padding: 0;
+  margin: 0;
+}
